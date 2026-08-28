@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Qwen Mobile Chat",
+    "slug": "qwen-mobile-chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.cuynodave34.qwenmobilechat"
+    },
+    "ios": {
+      "bundleIdentifier": "com.cuynodave34.qwenmobilechat"
+    }
+  }
+}
