@@ -10,7 +10,7 @@ import {
 } from 'react-native';
 import { WebView } from 'react-native-webview';
 
-const ENGINE_URL = 'https://example.pages.dev';
+const ENGINE_URL = 'https://qwen-browser-chat.pages.dev';
 
 export default function App() {
   const webViewRef = useRef(null);
